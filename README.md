@@ -1,6 +1,6 @@
 # Meta
 [![badge]](https://standards.github.io/goto/approval#meta)
-[<img src="https://standards.github.io/resources/images/standards-logo-small.png" align="right"/>](https://standards.github.io/goto/home)
+[<img src="https://standards.github.io/resources/images/gh-standards-logo-small.png" align="right"/>](https://standards.github.io/goto/home)
 
 [Github Standard](https://standards.github.io/goto/home) to describe how to write a Github Standard.
 
@@ -28,7 +28,7 @@ The following sections should be added to a `README.md` file in a project in ord
   ```markdown
   # standard title
   <!-- Place the Parent Standard badge here when corresponds -->
-  [<img src="https://standards.github.io/resources/images/standards-logo-small.png" align="right"/>](https://standards.github.io/goto/home)
+  [<img src="https://standards.github.io/resources/images/gh-standards-logo-small.png" align="right"/>](https://standards.github.io/goto/home)
 
   [Github Standard](https://standards.github.io/goto/home) to describe ...
 
