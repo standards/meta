@@ -15,15 +15,15 @@ Let's dive into the steps needed to create a standard:
 
 ![creation](images/creation_cycle.png)
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
+1. A new GitHub Issue is created on the Meta standard
+2. Some discussion needs to happen which involves all the community, not just Meta standard mainteners
+3. The standard creation gets approved so it can be worked on 
+4. A repository outside Standards organization should be created so people can work on the new standard
+5. A new issue is created on the Meta standard to ask for validation
+6. Some discussion could happen, feedback can be given to rework somthing
+7. Eventually the new standard gets validated
+8. The mainteners of the standard can create the first tag version and add the Meta standard badge
+9. The new standard gets moved to the Standards organization
 
 [Issues]: https://guides.github.com/features/issues/
 [Tags]: https://git-scm.com/book/en/v2/Git-Basics-Tagging
