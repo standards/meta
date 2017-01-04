@@ -22,4 +22,6 @@ In a few words, its level of commitment provides assurance.
 
 And of course a GitHub Standard should be widespread, otherwise this could happen:
 
-<img align="center" src="https://standards.github.io/resources/images/xkcd927_standards.png" alt="xkcd 927">
+<p align="center">
+  <img align="center" src="https://standards.github.io/resources/images/xkcd927_standards.png" alt="xkcd 927">
+</p>
