@@ -58,7 +58,7 @@ Any of these sections or additional subsections can be added as headers, subhead
 * [Guidelines vs. Standards appendix]: Information about the disctintion between a Guideline and a Standard
 * [Standard life cycle appendix]: Information about a standard' life cycle
 
-## Mainteiners
+## Maintainers
 
 1. [@leog](https://github.com/leog)
 2. [@tunnckoCore](https://github.com/tunnckoCore)
