@@ -2,7 +2,7 @@
 [![badge]](https://standards.github.io/goto/approval#meta)
 [<img src="https://standards.github.io/resources/images/gh-standards-logo-small.png" align="right"/>](https://standards.github.io/goto/home)
 
-[Github Standard](https://standards.github.io/goto/home) to describe how to write a Github Standard.
+[Standard](https://standards.github.io/goto/home) to describe how to write a standard.
 
 > Please refer to the [Standard life cycle appendix](http://standards.github.io/goto/standard-life-cycle) to understand how you can submit a new standard, propose changes to existing ones or request validation for applied standards on your projects.
 
@@ -30,7 +30,7 @@ The following sections should be added to a `README.md` file in a project in ord
   <!-- Place the Parent Standard badge here when corresponds -->
   [<img src="https://standards.github.io/resources/images/gh-standards-logo-small.png" align="right"/>](https://standards.github.io/goto/home)
 
-  [Github Standard](https://standards.github.io/goto/home) to describe ...
+  [Standard](https://standards.github.io/goto/home) to describe ...
 
   > Please refer to the [Standard life cycle appendix](http://standards.github.io/goto/standard-life-cycle) to understand 
   how you can submit a new standard, propose changes to existing ones or request validation for applied 
@@ -65,4 +65,4 @@ Any of these sections or additional subsections can be added as headers, subhead
 
 [Guidelines vs. Standards appendix]: http://standards.github.io/goto/guidelines-vs-standards
 [Standard life cycle appendix]: http://standards.github.io/goto/standard-life-cycle
-[badge]: https://img.shields.io/badge/Standards-meta%40v1.0.0-green.svg
+[badge]: https://img.shields.io/badge/standards-meta%20v1.0.0-green.svg
