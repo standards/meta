@@ -3,7 +3,7 @@
 
 [Standard](https://standards.github.io) to describe how to write a standard.
 
-> Please refer to the [Learn section](https://standards.github.io) of the Standards homepage to understand how you can submit a new standard, propose changes to existing ones or request validation for applied standards on your projects.
+> Please refer to the [Learn section](https://standards.github.io/learn) of the Standards homepage to understand how you can submit a new standard, propose changes to existing ones or request validation for applied standards on your projects.
 
 ## Goals
 The development world inside GitHub is vast and full of wonders, with lots people with different ways to conceive a piece of software. Open Source projects can present a huge challenge on how things should be done across scattered teams where common-knowledge distribution is a huge challenge on its own too.
@@ -64,5 +64,5 @@ Any of these sections or additional subsections can be added as headers, sub-hea
 2. [@tunnckoCore](https://github.com/tunnckoCore)
 
 [Explore section]: https://standards.github.io/explore
-[Learn section]: https://standards/github.io/learn
+[Learn section]: https://standards.github.io/learn
 [badge]: https://img.shields.io/badge/standards-meta%20v1.0.0-green.svg
