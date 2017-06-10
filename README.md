@@ -1,9 +1,8 @@
-# Meta [![badge]](https://github.com/standards/meta/issues/4)
-[<img src="https://standards.github.io/resources/images/gh-standards-logo-small.png" align="right"/>](https://standards.github.io)
-
-[Standard](https://standards.github.io) to describe how to write a standard.
-
-> Please refer to the [Learn section](https://standards.github.io/learn) of the Standards homepage to understand how you can submit a new standard, propose changes to existing ones or request validation for applied standards on your projects.
+---
+title: Meta
+description: Standard to create GitHub Standards
+---
+[![badge]](https://github.com/Standards/meta/issues/4)
 
 ## Goals
 The development world inside GitHub is vast and full of wonders, with lots people with different ways to conceive a piece of software. Open Source projects can present a huge challenge on how things should be done across scattered teams where common-knowledge distribution is a huge challenge on its own too.
@@ -23,19 +22,15 @@ In order to achieve such a level of expectation, let there be standards to help 
 ## Definition
 The following information should be added to your repository:
 
-* Have a short and descriptive repository description. It will be used in the [Explore section] of the Standards homepage.
-
-* Have a meaningful and short title on the `README.md` file in the following format that includes basic information about the Standards initiative:
+* Have a meaningful and short title and an accurate short description for your standard on the following form at the top of you `README.md` file:
   ```markdown
-  # standard title <!-- Place the meta standard badge here when corresponds -->
-  [<img src="https://standards.github.io/resources/images/gh-standards-logo-small.png" align="right"/>](https://standards.github.io)
-
-  [Standard](https://standards.github.io) to describe how to write a standard.
-
-  > Please refer to the [Learn section](https://standards.github.io/learn) of the Standards homepage to understand how you can submit a new standard, propose changes to existing ones or request validation for applied standards on your projects.
+   ---
+   title: Meta
+   description: Standard to create GitHub Standards
+   ---
   ```
   
-The following sections should be added to a `README.md` file in a project in order to shape a complete standard:
+The following sections should be added to the `README.md` file in order to shape a complete standard:
 
 * **Goals:** This section should cover why the standard should exist. Always try to include the "A project compliant with this standard..." and examples of the resultant workflow of a compliant project.
 
