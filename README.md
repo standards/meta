@@ -60,4 +60,4 @@ Any of these sections or additional subsections can be added as headers, sub-hea
 
 [Explore section]: https://standards.github.io/explore
 [Learn section]: https://standards.github.io/learn
-[badge]: https://badges-kfirryfzxo.now.sh/badge/4
+[badge]: https://standards-badges.now.sh/badge/4
