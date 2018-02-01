@@ -1,6 +1,8 @@
 ---
 title: Meta
 description: Standard to create GitHub Standards
+category: user-guide
+repository_url: https://github.com/standards/meta
 ---
 [![badge]](https://github.com/Standards/meta/issues/4)
 
