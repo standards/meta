@@ -19,36 +19,62 @@ Being able to create something that followed pre-established conventions we can 
 * Promote a healthy way to extend any project when collaboration guidelines are followed
 * Bring up to speed new comers to a project being able to ramp up reading applied standards
 
-In order to achieve such a level of expectation, let there be standards to help us. And in order to create a standard, its own standard should be complied.
+A project complient with this standard constitutes a standard.
 
 ## Definition
-The following information should be added to your repository:
 
-* Have a meaningful and short title and an accurate short description for your standard on the following form at the top of you `README.md` file:
-  ```markdown
-   ---
-   title: Meta
-   description: Standard to create GitHub Standards
-   ---
-  ```
+### In a README.md file
+
+#### Title, description and category
+Basic information should be added to the header of the `README.md` file of your standard to identify it. First of all we have the title of the standard that should be meaningful yet short, then a short description. Lastly a category to help searchability (e.g. the targeted programming language) and the resporitory URL where the standard is located. These need to be in the following form:
+
+```markdown
+ ---
+ title: Meta
+ description: Standard to create GitHub Standards
+ category: user-guide
+ repository_url: https://github.com/standards/meta
+ ---
+```
   
-The following sections should be added to the `README.md` file in order to shape a complete standard:
-
-* **Goals:** This section should cover why the standard should exist. Always try to include the "A project compliant with this standard..." and examples of the resultant workflow of a compliant project.
-
-
-* **Definition:** Which are the specific requirements that should be applied in order to be fully compliant. You can also point out optional requirements with a clear reference of why it is optional. At least there should be one compulsory requirement.
+#### Goals section
+This section should cover why the standard should exist. Always try to include the "A project compliant with this standard..." and examples of the resultant workflow of a compliant project.
 
 
-* **Resources:** Any reference to documentation used to create the standard as well as any appendixes. This is optional as there may not be any resource available to add.
+#### Definition section 
+Which are the specific requirements that should be applied in order to be fully compliant. You can also point out optional requirements with a clear reference of why it is optional. At least there should be one compulsory requirement.
 
+#### Resources section 
+Any reference to documentation used to create the standard as well as any appendixes. This is optional as there may not be any resource available to add.
 
-* **Maintainers:** At least two people, with their correspondent email addresses, responsible for maintaining the standard. Also they could officiate as validators if no validator section is included. Refer to the [Learn section] of the Standards homepage to know more about validators job.
+#### Maintainers section
+At least two people, with their correspondent email addresses, responsible for maintaining the standard. Also they could officiate as validators if no validator section is included. Refer to the [Learn section] of the Standards homepage to know more about validators job.
 
+#### Validator section (optional)
+It can be omitted if the people added as "Maintainers" are the ones responsible of fulfilling validators tasks. Otherwise, same requirements, at least two persons with their correspondent email addresses.
 
-* **Validators:** It can be omitted if the people added as "Maintainers" are the ones responsible of fulfilling validators tasks. Otherwise, same requirements, at least two persons with their correspondent email addresses.
+### Other files 
+The following files should exist in your repository root or inside a `.github` folder:
 
-Any of these sections or additional subsections can be added as headers, sub-headers or lists as long the required information is included.
+#### `ISSUE_TEMPLATE.md` file
+With the following content:
+
+```markdown
+## What is the purpose of this Issue?
+- Request validation (title must be "Validate owner/repo-name vX.Y.Z" being owner/repo the repository location to validate and vX.Y.Z the standard version complied)
+- Propose changes
+- Propose a new Standard
+
+## Describe the purpose of this Issue a bit further
+```
+
+#### `PULL_REQUEST_TEMPLATE.md` 
+With the following content:
+```markdown
+## What is the purpose of this Pull Request?
+
+## Does this Pull Request solve any existent Issue?  
+```
 
 ## Resources
 
