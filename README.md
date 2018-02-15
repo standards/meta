@@ -6,6 +6,9 @@ repository_url: https://github.com/standards/meta
 ---
 [![badge]](https://github.com/Standards/meta/issues/4)
 
+[![Backers on Open Collective](https://opencollective.com/openstandards/backers/badge.svg)](#backers)
+ [![Sponsors on Open Collective](https://opencollective.com/openstandards/sponsors/badge.svg)](#sponsors) 
+
 ## Goals
 The development world inside GitHub is vast and full of wonders, with lots people with different ways to conceive a piece of software. Open Source projects can present a huge challenge on how things should be done across scattered teams where common-knowledge distribution is a huge challenge on its own too.
 
@@ -70,6 +73,7 @@ With the following content:
 
 #### `PULL_REQUEST_TEMPLATE.md` 
 With the following content:
+
 ```markdown
 ## What is the purpose of this Pull Request?
 
@@ -89,3 +93,33 @@ With the following content:
 [Explore section]: https://standards.github.io/explore
 [Learn section]: https://standards.github.io/learn
 [badge]: https://standards.now.sh/badge/standards/meta/4?cache=1
+
+## Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="graphs/contributors"><img src="https://opencollective.com/openstandards/contributors.svg?width=890&button=false" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/openstandards#backer)]
+
+<a href="https://opencollective.com/openstandards#backers" target="_blank"><img src="https://opencollective.com/openstandards/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/openstandards#sponsor)]
+
+<a href="https://opencollective.com/openstandards/sponsor/0/website" target="_blank"><img src="https://opencollective.com/openstandards/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/openstandards/sponsor/1/website" target="_blank"><img src="https://opencollective.com/openstandards/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/openstandards/sponsor/2/website" target="_blank"><img src="https://opencollective.com/openstandards/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/openstandards/sponsor/3/website" target="_blank"><img src="https://opencollective.com/openstandards/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/openstandards/sponsor/4/website" target="_blank"><img src="https://opencollective.com/openstandards/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/openstandards/sponsor/5/website" target="_blank"><img src="https://opencollective.com/openstandards/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/openstandards/sponsor/6/website" target="_blank"><img src="https://opencollective.com/openstandards/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/openstandards/sponsor/7/website" target="_blank"><img src="https://opencollective.com/openstandards/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/openstandards/sponsor/8/website" target="_blank"><img src="https://opencollective.com/openstandards/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/openstandards/sponsor/9/website" target="_blank"><img src="https://opencollective.com/openstandards/sponsor/9/avatar.svg"></a>
+
+
