@@ -1,6 +1,6 @@
 ---
 title: Meta
-description: Standard to create GitHub Standards
+description: Standard to create Open Standards
 category: user-guide
 repository_url: https://github.com/standards/meta
 ---
@@ -31,7 +31,7 @@ Basic information should be added to the header of the `README.md` file of your 
 ```markdown
  ---
  title: Meta
- description: Standard to create GitHub Standards
+ description: Standard to create Open Standards
  category: user-guide
  repository_url: https://github.com/standards/meta
  ---
@@ -84,8 +84,8 @@ With the following content:
 ## Maintainers
 
 1. [@leog](https://github.com/leog)
-2. [@tunnckoCore](https://github.com/tunnckoCore)
+2. [@olstenlarck](https://github.com/olstenlarck)
 
-[Explore section]: https://standards.github.io/explore
-[Learn section]: https://standards.github.io/learn
-[badge]: https://standards.now.sh/badge/standards/meta/4?cache=1
+[Explore section]: https://openstandards.guide/explore
+[Learn section]: https://openstandards.guide/learn
+[badge]: https://standards.now.sh/badge/standards/meta/4?cache=2
