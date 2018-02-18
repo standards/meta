@@ -1,6 +1,6 @@
 ---
 title: Meta
-description: Standard to create GitHub Standards
+description: Standard to create Open Standards
 category: user-guide
 repository_url: https://github.com/standards/meta
 ---
@@ -34,7 +34,7 @@ Basic information should be added to the header of the `README.md` file of your 
 ```markdown
  ---
  title: Meta
- description: Standard to create GitHub Standards
+ description: Standard to create Open Standards
  category: user-guide
  repository_url: https://github.com/standards/meta
  ---
@@ -42,7 +42,6 @@ Basic information should be added to the header of the `README.md` file of your 
   
 #### Goals section
 This section should cover why the standard should exist. Always try to include the "A project compliant with this standard..." and examples of the resultant workflow of a compliant project.
-
 
 #### Definition section 
 Which are the specific requirements that should be applied in order to be fully compliant. You can also point out optional requirements with a clear reference of why it is optional. At least there should be one compulsory requirement.
@@ -88,27 +87,22 @@ With the following content:
 ## Maintainers
 
 1. [@leog](https://github.com/leog)
-2. [@tunnckoCore](https://github.com/tunnckoCore)
+2. [@olstenlarck](https://github.com/olstenlarck)
 
-[Explore section]: https://standards.github.io/explore
-[Learn section]: https://standards.github.io/learn
-[badge]: https://standards.now.sh/badge/standards/meta/4?cache=1
+[Explore section]: https://openstandards.guide/explore
+[Learn section]: https://openstandards.guide/learn
+[badge]: https://standards.now.sh/badge/standards/meta/4?cache=2
 
 ## Contributors
-
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
 <a href="graphs/contributors"><img src="https://opencollective.com/openstandards/contributors.svg?width=890&button=false" /></a>
 
-
 ## Backers
-
 Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/openstandards#backer)]
 
 <a href="https://opencollective.com/openstandards#backers" target="_blank"><img src="https://opencollective.com/openstandards/backers.svg?width=890"></a>
 
-
 ## Sponsors
-
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/openstandards#sponsor)]
 
 <a href="https://opencollective.com/openstandards/sponsor/0/website" target="_blank"><img src="https://opencollective.com/openstandards/sponsor/0/avatar.svg"></a>
@@ -121,5 +115,3 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 <a href="https://opencollective.com/openstandards/sponsor/7/website" target="_blank"><img src="https://opencollective.com/openstandards/sponsor/7/avatar.svg"></a>
 <a href="https://opencollective.com/openstandards/sponsor/8/website" target="_blank"><img src="https://opencollective.com/openstandards/sponsor/8/avatar.svg"></a>
 <a href="https://opencollective.com/openstandards/sponsor/9/website" target="_blank"><img src="https://opencollective.com/openstandards/sponsor/9/avatar.svg"></a>
-
-

@@ -6,9 +6,9 @@ If you haven't already, come find us on Gitter [Standards/Lobby](https://gitter.
 
 Here are some important resources:
 
-  * Standards homepage at https://standards.github.io
-  * Standards Learn section on the homepage at https://standards.github.io/learn
-  * Standards Explore section on the homepage at https://standards.github.io/explore
+  * Standards homepage at https://openstandards.guide
+  * Standards Learn section on the homepage at https://openstandards.guide/learn
+  * Standards Explore section on the homepage at https://openstandards.guide/explore
   * Medium article about this initiative by @leog at https://medium.com/@leog/universal-software-standards-ftw-cc4771ef3d3
   * Have any concrete suggestion/improvement? Submit an issue on the Meta standard at https://github.com/Standards/meta/issues/new
-  * Want to propose a new standard to be created? Follow this guide https://standards.github.io/learn#create-a-new-standard
+  * Want to propose a new standard to be created? Follow this guide https://openstandards.guide/learn#create-a-new-standard
