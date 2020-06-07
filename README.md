@@ -91,7 +91,7 @@ With the following content:
 
 [Explore section]: https://openstandards.guide/explore
 [Learn section]: https://openstandards.guide/learn
-[badge]: https://standards.now.sh/badge/standards/meta/4?cache=2
+[badge]: https://open-standards.now.sh/api/badge/standards/meta/4
 
 ## Contributors
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
